@@ -5,12 +5,16 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/permpoonchao)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mossnana)
 
+<img align="right" alt="GIF" src="https://github.com/mossnana/mossnana/blob/main/coding.gif?raw=true" width="408" height="318" />
+
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mossnana)
+<img align="right" alt="motto" src="https://res.cloudinary.com/mossnana/image/upload/v1634714641/rv9lou1s1fz31_x01i1t.png" width="100" height="75" />
+
+</br>
 
 I am a full-stack software engineer.
 
-<img align="right" alt="GIF" src="https://github.com/mossnana/mossnana/blob/main/coding.gif?raw=true" width="408" height="318" />
-  
 
 **Talking about Personal Stuffs:**
 
