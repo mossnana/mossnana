@@ -13,7 +13,7 @@
 
 </br>
 
-I am a full-stack software engineer.
+i_am = new Programmer()
 
 
 **Talking about Personal Stuffs:**
@@ -29,7 +29,7 @@ I am a full-stack software engineer.
 📊 **Bio:**
 <!--START_SECTION:waka-->
 ```text
-After I graduated from a bachelor degrese, I started working. Almost a year that I had to find yourself. Today, I think I found that I wanna be a programmer or developer. So, I decided to study in IT, master degree. And I hope I will have a programmer or developer job. Betweeen studying in master degree, I'm learning more knowledge by yourself from youtube, udemy, coursera, etc. A thing that I want is IT jobs experience.
+After I graduated from a bachelor degree, I started working. Almost a year that I had to find yourself. Today, I think I found that I wanna be a programmer or developer. So, I decided to study in IT, master degree. And I hope I will have a programmer or developer job. Betweeen studying in master degree, I'm learning more knowledge by yourself from youtube, udemy, coursera, etc. A thing that I want is IT jobs experience.
 ```
 <!--END_SECTION:waka-->
 
