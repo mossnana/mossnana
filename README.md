@@ -8,28 +8,29 @@
 <img align="right" alt="GIF" src="https://github.com/mossnana/mossnana/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mossnana)
-<img align="right" alt="motto" src="https://res.cloudinary.com/mossnana/image/upload/v1634714641/rv9lou1s1fz31_x01i1t.png" width="100" height="75" />
+### Glad to see you here!
+
+I believe that every solution has a problem
+ทุกทางออก มีปัญหา
 
 </br>
-
-i_am = new Programmer()
-
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 &nbsp; I’m currently finding part-time jobs.
-- 🚀 &nbsp; I’m currently learning Data Structures and Algorithms.
-- 💬 &nbsp; Ask me about anything, I am happy to help.
-- 📫 &nbsp; How to reach me: `samurai.hanso@gmail.com`
-- 📝 &nbsp; [Resume](https://mossnana.github.io/resume)
+- 👨🏻‍💻 &nbsp; I’m currently finding part-time jobs อยากหารายได้เสริมครับ
+- 🚀 &nbsp; I’m still learning basic concepts of Computer Science ผมก็ยังไม่เข้าใจพื้นฐานของวิทยาการคอมฯอยู่ดี
+- 💬 &nbsp; Ask me about anything, I am happy to help ถามผมได้ เต็มใจช่วย (ถ้าช่วยได้นะครับ)
+- 📫 &nbsp; How to reach me: Facebook, Instagram, Line, `samurai.hanso@gmail.com` ติดต่อมาเล๊ยยยย
+- 📝 &nbsp; [Resume](https://mossnana.github.io/resume) อย่าเข้าไปดูเลย ไม่มีอะไรหรอก
 
 </br>
 
-📊 **Bio:**
+🗣️ **Quote:**
 <!--START_SECTION:waka-->
 ```text
-After I graduated from a bachelor degree, I started working. Almost a year that I had to find yourself. Today, I think I found that I wanna be a programmer or developer. So, I decided to study in IT, master degree. And I hope I will have a programmer or developer job. Betweeen studying in master degree, I'm learning more knowledge by yourself from youtube, udemy, coursera, etc. A thing that I want is IT jobs experience.
+Hire me if you can. I want to make money.
+
+จ้างผมหน่อย ผมอยากได้เงิน
 ```
 <!--END_SECTION:waka-->
 
